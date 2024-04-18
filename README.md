@@ -33,3 +33,7 @@ The university API system can be authenticated using jwt bearer token and monito
 ### Authentication
 
 - [ ] `POST`: /Authentication/login
+
+
+<img width="775" alt="Ekran Resmi 2024-04-18 21 49 37" src="https://github.com/SezaiGurle/api/assets/106925151/0365499c-d484-499b-9c96-4af3c0471a32">
+
