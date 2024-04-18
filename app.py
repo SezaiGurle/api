@@ -14,11 +14,15 @@ tuition_model = api.model('Tuition', {
 tuition_data = {
     "student1": {"tuition_total": 5000, "balance": 7500},
     "student2": {"tuition_total": 6000, "balance": 0},
+    "student3": {"tuition_total": 2000, "balance": 2000},
+    "student2": {"tuition_total": 1000, "balance": 560},
 }
 
 unpaid_tuition = {
-    "2024Spring": ["student1"]
+    "2024Spring": ["student1", "student3"],
+    "2024Autumn": ["student2", "student4"]
 }
+
 
 payment_parser = api.parser()
 payment_parser.add_argument('student_no', type=str, required=True, help="Student number is required")
