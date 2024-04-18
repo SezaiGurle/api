@@ -38,3 +38,7 @@ The university API system can be authenticated using jwt bearer token and monito
 
 <img width="775" alt="Ekran Resmi 2024-04-18 21 51 56" src="https://github.com/SezaiGurle/api/assets/106925151/b1ff92b6-f496-4a8c-a42b-83cd730e0a5e">
 
+## Video
+
+https://drive.google.com/file/d/1Dur7Kr-mD2uWFsCxEdjOR3J3VHmqLqo3/view?usp=sharing
+
