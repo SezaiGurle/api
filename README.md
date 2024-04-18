@@ -14,6 +14,8 @@ The university API system can be authenticated using jwt bearer token and monito
 - **Models**: Data models for storing information about students, tuition_total, and faculty balance.
 - **Sqlite**: Database for storing information about students, tuition_total, and faculty balance.
 
+## Operations 
+
 ### Mobil
 
 - [ ] `GET`: /Mobil/query-tuition
