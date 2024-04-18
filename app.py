@@ -1,6 +1,7 @@
 from flask import Flask, jsonify, request
 from flask_restx import Api, Resource, fields, Namespace
 from flask_jwt_extended import JWTManager, jwt_required, create_access_token
+from flask_sqlalchemy import SQLAlchemy
 
 app = Flask(__name__)
 api = Api(app, version='1.0', title='University API', description='APIs for managing university tuition fees')
